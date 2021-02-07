@@ -1,0 +1,7 @@
+.active{
+    color:red;
+    font-weight: bold;
+  }
+  li {
+    cursor:pointer;
+  }
